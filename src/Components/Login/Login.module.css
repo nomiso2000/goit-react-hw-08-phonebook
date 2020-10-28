@@ -1,0 +1,17 @@
+.container {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+.header {
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 0px;
+}
+.button {
+  display: block;
+  margin: 0 auto;
+}
+.input {
+  margin-left: 5px;
+}

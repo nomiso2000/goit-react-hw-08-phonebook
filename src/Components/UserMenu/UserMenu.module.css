@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  width: 250px;
+  justify-content: space-between;
+  align-items: center;
+}
+.button {
+  background-color: #4caf50;
+  border: none;
+  font-size: 16px;
+  color: #ffffff;
+  padding: 8px;
+  width: 33%;
+  text-align: center;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+}
+.text {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 700;
+  color: #e84a5f;
+}
